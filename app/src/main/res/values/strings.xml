@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="str">Course Grade Calculator</string>
+    <string name="heading">Select a course to calculate your course\'s grade:</string>
+    <string name="title_activity_csci242">CSCI242</string>
+</resources>
